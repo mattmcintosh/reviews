@@ -1,0 +1,86 @@
+.totalreviews {
+	font-size: 500%;
+	background: #DDD;
+	width: 150px;
+	height: 100px;
+	border-radius: 25px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 20px 0px 0px 20px;
+}
+.totalaverating {
+	font-size: 650%;
+	color: #4F0;
+}
+.summary {
+	float: left;
+	margin: 0px 10px 10px 10px;
+}
+.reviews {
+	margin-left: 230px;
+}
+.sitestatbox {
+	border: thin solid #aaa;
+	background: #EEE;
+	width: 180px;
+	height: 180px;
+	padding: 10px;
+	margin: 0px 0px 10px 0px;
+	text-align: center;
+}
+.review {
+	border: thin solid #aaa;
+	background: #EEE;
+	width: 550px;
+	height: 160px;
+	padding: 10px;
+	margin-bottom: 10px;
+
+}
+.reviewperson {
+	border: thin solid #aaa;
+	background: #FFF;
+	width: 135px;
+	height: 135px;
+	padding: 10px;
+	margin: 0px;
+	float: left;
+	text-align: center;
+
+}
+.reviewdetails {
+	width: 360px;
+	height: 135px;
+	padding: 0px;
+	margin: 10px;
+	float: left;
+
+}
+.stars, .reviewdate {
+	float: left;
+}
+.reviewsource {
+	float: right;
+}
+.reviewdescription {
+	margin: 10px;
+}
+.title {
+	margin-top: 20px;
+
+	
+}
+.business {
+	border: thin solid #aaa;
+	width: 760px;
+	height: 160px;
+	background: #DDD;
+	border-radius: 25px;
+	vertical-align: middle;
+	margin: 20px 0px 20px 0px;
+	padding: 20px;
+
+}
+.business_name {
+	font-size: 300%
+}
